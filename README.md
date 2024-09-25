@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing B.Tech in Computer Science specilizing in Cybersecurity
 - 📫 Email to reach me on aishik.mukherjee.work@gmail.com
 - 😄 Pronouns: He/Him
-- 😎 Hobbies: Playing and watching football
+- 😎 Hobbies: Playing and watching football 
 - ⚡ Fun fact: The most common password used by computer users is "123456". 🤫
 
 <!---
